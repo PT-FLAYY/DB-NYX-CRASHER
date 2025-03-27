@@ -1,14 +1,9 @@
 {
-  "dbnya": 1
+  "dbnya": [
     {
-      "username": "flayy",
-      "password": "flayygntng",
-      "nomor": "6285890809066"
-    },
-    {
-      "username": "user2",
-      "password": "pass456",
-      "nomor": "6285169655568"
+      "username": "anjay",
+      "password": "tester",
+      "nomor": "62864746474"
     }
   ]
 }
