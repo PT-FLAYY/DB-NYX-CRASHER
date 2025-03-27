@@ -19,6 +19,11 @@
       "username": "test",
       "password": "wkwk",
       "nomor": "6262626"
+    },
+    {
+      "username": "admin",
+      "password": "admin",
+      "nomor": "6285169655568"
     }
   ]
 }
